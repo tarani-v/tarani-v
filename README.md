@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
   <h1>
     Hey, I'm Tarani Varre
-    <a href="https://github.com/tarani-v">
-      <img src="https://komarev.com/ghpvc/?username=tarani-v&style=flat-square&color=blueviolet" alt="Profile views"/>
-    </a>
   </h1>
 </div>
 
@@ -21,18 +18,18 @@
 
 ### 👩‍💻 About Me
 
-[cite_start]I am a passionate and driven Electronics and Communication Engineering student at KL University with a deep interest in the intersection of hardware and software. [cite: 9] [cite_start]I love building practical solutions and am currently exploring the worlds of **Front-end Web Development**, **Generative AI**, and **Cloud Technologies**. [cite: 43] My goal is to leverage technology to create efficient and impactful applications.
+I am a passionate and driven Electronics and Communication Engineering student at KL University with a deep interest in the intersection of hardware and software. I love building practical solutions and am currently exploring the worlds of **Front-end Web Development**, **Generative AI**, and **Cloud Technologies**. My goal is to leverage technology to create efficient and impactful applications.
 
-* [cite_start]🌱 I’m currently learning more about **Large Language Models** and advanced **Cloud Fundamentals**. [cite: 43]
-* [cite_start]🚀 I love contributing to Open Source and have experience with community-driven development. [cite: 18]
-* [cite_start]💡 I regularly practice competitive programming, having solved over 100 problems on platforms like Leetcode and CodeChef. [cite: 52]
-* [cite_start]💬 Feel free to ask me about Web Development, AI/ML concepts, or my experience in coordinating tech events! [cite: 23, 43]
+* 🌱 I’m currently learning more about **Large Language Models** and advanced **Cloud Fundamentals**.
+* 🚀 I love contributing to Open Source and have experience with community-driven development.
+* 💡 I regularly practice competitive programming, having solved over 100 problems on platforms like Leetcode and CodeChef.
+* 💬 Feel free to ask me about Web Development, AI/ML concepts, or my experience in coordinating tech events!
 
 ---
 
 ### 🛠️ My Tech Stack & Skills
 
-[cite_start]This is the technology I've been working with, based on my ECE curriculum and personal projects. [cite: 9]
+This is the technology I've been working with, based on my ECE curriculum and personal projects.
 
 **💻 Programming & CS Fundamentals**
 <p>
